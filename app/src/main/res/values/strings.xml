@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">保质期</string>
+    <string name="title_main">我的物品</string>
+    <string name="add">添加物品</string>
+    <string name="other">备注</string>
+    <string name="name">物品名称</string>
+    <string name="date1">生产日期</string>
+    <string name="date2">限用日期</string>
+    <string name="date3">提醒日期</string>
+    <string name="item_details">物品详情</string>
+    <string name="photo">请添加照片</string>
+    <string name="category">类别</string>
+    <string name="all">全部物品</string>
+    <string name="food">食物</string>
+    <string name="lip">化妆品</string>
+    <string name="med">药品</string>
+    <string-array name="dock1">
+        <item> </item>
+        <item>化妆品</item>
+        <item>食品</item>
+        <item>药品</item>
+    </string-array>
+    <string-array name="dock2">
+        <item> </item>
+        <item>普通录入</item>
+        <item>AI识别录入</item>
+        <item>智能语音录入</item>
+    </string-array>
+</resources>
